@@ -1,0 +1,11 @@
+@media (max-width: 800px){ }
+
+@media (max-width: 480px){
+    .container{
+        width: auto;
+        display: block;
+        text-align: center;
+    }
+    body { background: #fc0; }
+ }
+
